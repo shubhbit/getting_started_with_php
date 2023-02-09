@@ -9,7 +9,7 @@ function file_read($file){
         print("error opening file..");
     }
     else {
-        $size = filesize($file_name);
+        $size = filesize($file);
         print("\nfile size: " . $size);
         $text = fread($file_handle, $size);
         print("\nfile text: " . $text);
