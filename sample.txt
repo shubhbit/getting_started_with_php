@@ -1,0 +1,7 @@
+Hello Guys, this is a sample text file which is being 
+used to demo file I/O operations.
+
+This is second paragraph, which can be printed as well.
+
+So, final text coming from this paragraph. And, text needs
+to be displayed at the end.
