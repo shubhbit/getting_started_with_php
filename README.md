@@ -4,3 +4,4 @@
 - conditions
 - loops
 - functions
+- classes
