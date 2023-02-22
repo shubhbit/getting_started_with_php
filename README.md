@@ -5,3 +5,4 @@
 - loops
 - functions
 - classes
+- inheritance
