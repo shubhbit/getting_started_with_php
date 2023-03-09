@@ -7,4 +7,5 @@
 - classes
 - inheritance
 - abstraction
-- codeception
+- interface
+- traits
