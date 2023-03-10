@@ -9,3 +9,4 @@
 - abstraction
 - interface
 - traits
+- namespace
